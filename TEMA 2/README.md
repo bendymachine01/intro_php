@@ -87,3 +87,4 @@ echo $persona["nombre"]; // Juan
 
 
 ![PHP](img/phpconceptosbasicos.png)
+
